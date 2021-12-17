@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 2021-12-17, v1.9.3
+- Allow installing on PHP 8.1
+
 ## 2019-12-03, v1.9.1
 
 - Add link to PHPStan extension to readme [\#1834](https://github.com/fzaninotto/Faker/pull/1834) ([finwe](https://github.com/finwe))
